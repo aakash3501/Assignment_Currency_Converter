@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment Currency Converter</string>
+    <string name="amount_field_placeholder">Enter Amount</string>
+    <string name="amount_field_error_message">Invalid Input</string>
+</resources>
